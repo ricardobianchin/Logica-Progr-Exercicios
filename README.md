@@ -7,4 +7,4 @@ Separei os exercícios em duas pastas:
 - [Algoritmos](./Algoritmos/) criados usando o Flowgorithm ([site](http://www.flowgorithm.org/))
 - [Portugol](./Portugol/) criados usando o Portugol Studio ([site](http://lite.acad.univali.br/portugol/))
 
-Se você tiver alguma dúvida crie uma issue e eu ajudarei.
+Se você tiver alguma dúvida crie uma issue e eu tentarei ajudar.
