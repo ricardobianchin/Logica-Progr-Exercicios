@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value="Vazio"/>
+        <attribute name="authors" value="Ricardo"/>
+        <attribute name="about" value="Exemplo de programa somente com Principal/Fim"/>
+        <attribute name="saved" value="2021-12-22 04:51:31 "/>
+        <attribute name="created" value="UmljYXJkbztERVNLVE9QLVBPN0RQME87MjAyMS0xMi0yMjsiMDQ6MTE6MjQgIjsyOTU5"/>
+        <attribute name="edited" value="UmljYXJkbztERVNLVE9QLVBPN0RQME87MjAyMS0xMi0yMjsiMDQ6NTE6MzEgIjs3OzMwNzU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Idade" type="Integer" array="False" size=""/>
+            <input variable="Idade"/>
+            <output expression="Idade" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

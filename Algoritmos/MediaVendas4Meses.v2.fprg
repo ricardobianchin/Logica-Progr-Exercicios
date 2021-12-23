@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ricardo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-12-22 06:54:59 "/>
+        <attribute name="created" value="UmljYXJkbztERVNLVE9QLVBPN0RQME87MjAyMS0xMi0yMjsiMDE6NTc6NTQgIjsyOTY5"/>
+        <attribute name="edited" value="UmljYXJkbztERVNLVE9QLVBPN0RQME87MjAyMS0xMi0yMjsiMDY6NTQ6NTkgIjs4OzMwOTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="TotJan, TotFev, TotMar, TotAbr, Tot, Media, PercAbono, ValAbono" type="Real" array="False" size=""/>
+            <input variable="TotJan"/>
+            <input variable="TotFev"/>
+            <input variable="TotMar"/>
+            <input variable="TotAbr"/>
+            <assign variable="Tot" expression="TotJan+TotFev+TotMar+TotAbr"/>
+            <assign variable="Media" expression="Tot/4"/>
+            <if expression="Media&gt;=5000">
+                <then>
+                    <assign variable="PercAbono" expression="10"/>
+                </then>
+                <else>
+                    <assign variable="PercAbono" expression="3"/>
+                </else>
+            </if>
+            <assign variable="ValAbono" expression="(Tot*PercAbono)/100"/>
+            <output expression="&quot;Seu total de vendas foi &quot;&amp;ToString(Tot)&amp;&quot; reais. Voc&#234; receber&#225; um abono de &quot;&amp;ToString(PercAbono)&amp;&quot;%: R$&quot;&amp;ToString(ValAbono)&amp;&quot; reais.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

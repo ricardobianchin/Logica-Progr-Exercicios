@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ricardo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-12-22 09:35:43 "/>
+        <attribute name="created" value="UmljYXJkbztERVNLVE9QLVBPN0RQME87MjAyMS0xMi0yMjsiMDg6NTg6NTAgIjsyOTcz"/>
+        <attribute name="edited" value="UmljYXJkbztERVNLVE9QLVBPN0RQME87MjAyMS0xMi0yMjsiMDk6MzU6NDMgIjsxMjszMTI5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Multiplicador, Multiplicando, Inicio, Fim" type="Integer" array="False" size=""/>
+            <assign variable="Inicio" expression="1"/>
+            <assign variable="Fim" expression="10"/>
+            <assign variable="Multiplicando" expression="Inicio"/>
+            <while expression="Multiplicando &lt;= FIm">
+                <assign variable="Multiplicador" expression="Inicio"/>
+                <while expression="Multiplicador &lt;= Fim">
+                    <output expression="Multiplicando &amp; &quot; x &quot; &amp; Multiplicador &amp; &quot; = &quot; &amp; Multiplicador*Multiplicando" newline="True"/>
+                    <assign variable="Multiplicador" expression="Multiplicador + 1"/>
+                </while>
+                <assign variable="Multiplicando" expression="Multiplicando + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
