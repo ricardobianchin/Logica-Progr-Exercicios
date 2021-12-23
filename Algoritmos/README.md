@@ -2,6 +2,8 @@
 
 Algoritmos criados com o aplicativo Flowgorithm ([flowgorithm.org](http://www.flowgorithm.org/))
 
+Se você tiver alguma dúvida crie uma issue e eu ajudarei.
+
 ## Arquivos
 
 ### Media4Notas.fprg
