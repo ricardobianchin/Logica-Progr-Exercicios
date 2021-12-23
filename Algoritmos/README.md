@@ -42,6 +42,8 @@ Crie um algoritmo que
 
 ### Contar-1-10.fprg
 
+Exemplo de uso da estrutura enquanto
+
 Crie um algoritmo que
 
 - exiba os números de 1 a 10
@@ -60,4 +62,3 @@ Crie um algoritmo que
 
 - exiba as tabuadas do 1 até a do 10
 - utilizando a duas estruturas `enquanto` aninhadas
-
