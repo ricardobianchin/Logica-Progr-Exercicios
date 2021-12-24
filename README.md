@@ -25,6 +25,7 @@ Esta sequência de ações é chamada de **Algoritmo**
 **expressoes literais**
 
 ### obs concatenacao
+
 no flowgorithm concatenar é com & e aceita misturar inteiro com cadeia
 
 **linguagem de alto nivel**
@@ -51,7 +52,7 @@ Separei os exercícios em duas pastas:
 - [Algoritmos](./Algoritmos/) criados usando o Flowgorithm ([site](http://www.flowgorithm.org/))
 - [Portugol](./Portugol/) criados usando o Portugol Studio ([site](http://lite.acad.univali.br/portugol/))
 
-Se você tiver alguma dúvida crie uma issue e eu ajudarei.
+Se você tiver alguma dúvida crie uma issue e eu tentarei ajudar.
 
 ## Ideias
 
