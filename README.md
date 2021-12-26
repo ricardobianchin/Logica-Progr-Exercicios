@@ -36,6 +36,8 @@ no flowgorithm concatenar é com & e aceita misturar inteiro com cadeia
 
 ## Roteiro de Leitura
 
+[melhorando os estudos](https://www.mosalingua.com/pt/aprendizagem-ativa/)
+
 - [ ] [10-best-books-for-data-structure-and-algorithms](https://medium.com/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)
 - [ ] [Como Se Aprende? Estratégias, Estilos e Metacognição Fátima Portilho](https://www.amazon.com.br/Como-Aprende-Estrat%C3%A9gias-Estilos-Metacogni%C3%A7%C3%A3o/dp/857854031X)
 - [ ] [arte-pensar-claramente-Rolf-Dobelli](https://www.amazon.com.br/arte-pensar-claramente-Rolf-Dobelli/dp/8539006073/ref=asc_df_8539006073/?tag=googleshopp00-20&linkCode=df0&hvadid=379765936028&hvpos=&hvnetw=g&hvrand=18100973876367352665&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-387678495010&psc=1)
